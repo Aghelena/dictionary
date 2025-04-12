@@ -50,5 +50,7 @@ flutter run
 firebase_core
 
 firebase_auth
+```
 
 📸 Screenshots
+![Descrição do GIF](.gif)
