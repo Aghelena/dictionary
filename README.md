@@ -56,3 +56,8 @@ firebase_auth
 App em funcionamento:
 
 ![Descrição do GIF](dicionario.gif)
+
+Firebase:
+
+[Visualizar documento PDF](dicionario-app.pdf)
+
