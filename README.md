@@ -8,12 +8,11 @@ Permite cadastro, login com verificação de e-mail, visualização de palavras 
 ## 🧱 Estrutura de Pastas
 
 lib/ 
+
 ├── main.dart # Entrada principal do app 
-├── firebase_options.dart # Configuração do Firebase │ 
-├── models/ │ └── word_model.dart # Modelo da estrutura da palavra │ 
-├── services/ │ └── dictionary_service.dart # Serviço para buscar palavras │ 
-├── pages/ ├── login_register_page.dart # Tela combinada de login e registro 
-├── register_page.dart # Tela separada de registro (usada no fluxo) 
+
+├── register_page.dart # Tela separada de registro
+
 └── dictionary_page.dart # Tela principal do dicionário
 
 ## 🚀 Funcionalidades
@@ -50,7 +49,10 @@ flutter run
 firebase_core
 
 firebase_auth
+
 ```
 
-📸 Screenshots
-![Descrição do GIF](.gif)
+
+App em funcionamento:
+
+![Descrição do GIF](dicionario.gif)
